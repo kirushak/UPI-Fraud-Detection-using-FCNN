@@ -1,0 +1,2 @@
+streamlit==1.26.0  # or latest version you're using
+tensorflow==2.14.0  # or the correct version for your model
